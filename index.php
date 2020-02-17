@@ -1,6 +1,6 @@
 <?php
 
-/*Arquivo de start*/
+/*Arquivo de start 1.0*/
 require_once("config.php");
 
 $sql =  new Sql();
