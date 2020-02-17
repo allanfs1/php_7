@@ -1,6 +1,9 @@
 <?php
 
-<<<<<<< HEAD
+
+
+/*VS:14.5.0*/
+
 require_once("config.php");
 
 $sql =  new Sql();
