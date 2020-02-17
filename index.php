@@ -1,6 +1,6 @@
 <?php
 
-/*Arquivo de start 4.5.0*/
+/*VS:14.5.0*/
 require_once("config.php");
 
 $sql =  new Sql();
